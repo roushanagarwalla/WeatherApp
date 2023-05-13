@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title">Weather App</string>
+    <string name="enter_the_city">Enter the City</string>
+    <string name="submit">Submit</string>
+    <string name="weather_illustration">Weather Illustration</string>
+</resources>
