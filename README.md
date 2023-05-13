@@ -9,6 +9,6 @@ This is a simple Weather Forecast Android App that can be used to check the dail
 
 ### Screenshots
 
-<img src="./screenshots/s1.jpeg"/>
+<img src="./screenshots/s1.jpeg" width="350px" height="540px"/>
 <br/><br/><br/>
-<img src="./screenshots/s2.jpeg"/>
+<img src="./screenshots/s2.jpeg" width="350px" height="540px"/>
